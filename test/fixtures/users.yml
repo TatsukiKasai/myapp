@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  first_date: MyString
+  final_date: MyString
+  all_day: MyString
+  sch_memo: MyText
+
+two:
+  title: MyString
+  first_date: MyString
+  final_date: MyString
+  all_day: MyString
+  sch_memo: MyText
